@@ -27,9 +27,8 @@ content of the css:
 
 4. What is the css selector of the fourth element?
 ```
-nth-child
+nth-child(n)
 
-Description: Selects every <p> element that is the second child of its parent
 ```
 
 5. What is the code you use to keep the blue box within the purple?
