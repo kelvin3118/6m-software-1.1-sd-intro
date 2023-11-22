@@ -28,16 +28,17 @@ content of the css:
 4. What is the css selector of the fourth element?
 ```
 nth-child(n)
-
+div:nth-child(6)
 ```
 
 5. What is the code you use to keep the blue box within the purple?
 ```
 .child {
     border: mediumblue 8px solid;
-    width: auto;
+    width: 100%;
     height: 100%;
     margin: 0;
+    box-sizing: border-box;
 }
 ```
 
