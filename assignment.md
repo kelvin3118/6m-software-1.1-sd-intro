@@ -27,7 +27,6 @@ content of the css:
 
 4. What is the css selector of the fourth element?
 ```
-nth-child(n)
 div:nth-child(6)
 ```
 
